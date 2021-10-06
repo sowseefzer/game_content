@@ -1,0 +1,6 @@
+name: "game_content"
+displayName: "[#00ffff]game_content\n"
+author: "[white][tr][#0]sow[white]seef[#0]zer"
+description: "\n[white]Дополнительный [#00ffff]контент [#white]для компании",
+version: 0.1
+minGameVersion: 131
